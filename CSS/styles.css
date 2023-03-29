@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  font-family: 'Montserrat', serif;
+  color: #DFA67B;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 2rem;
+}
+
+a:hover {
+  color: white;
+}
+
+h1 {
+  font-family: 'Sacramento', serif;
+  font-size: 7rem;
+  color: #DFA67B;
+  margin-bottom: -3rem;
+}
+
+h2 {
+  font-family: 'Montserrat', serif;
+  font-size: 3rem;
+  color: #DFA67B;
+}
+
+h3 {
+  font-family: 'Montserrat', serif;
+  color: #DFA67B;
+  font-weight: bold;
+}
+
+hr {
+  width: 5rem;
+  border-style: dotted;
+  border-width: .5rem 0 0 0;
+  color: #F4B183;
+  margin: 5rem auto;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color: #40514E;
+  line-height: 2rem;
+}
+
+.a_programmer {
+  font-weight: normal;
+}
+
+.btn {
+  background: #FFF2CC;
+  background-image: -webkit-linear-gradient(top, #FFF2CC, #F4B183);
+  background-image: -moz-linear-gradient(top, #FFF2CC, #F4B183);
+  background-image: -ms-linear-gradient(top, #FFF2CC, #F4B183);
+  background-image: -o-linear-gradient(top, #FFF2CC, #F4B183);
+  background-image: linear-gradient(to bottom, #FFF2CC, #F4B183);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #FFD966;
+  background-image: -webkit-linear-gradient(top, #FFD966, #DFA67B);
+  background-image: -moz-linear-gradient(top, #FFD966, #DFA67B);
+  background-image: -ms-linear-gradient(top, #FFD966, #DFA67B);
+  background-image: -o-linear-gradient(top, #FFD966, #DFA67B);
+  background-image: linear-gradient(to bottom, #FFD966, #DFA67B);
+  text-decoration: none;
+}
+
+.cloud-bottom {
+  position: absolute;
+  margin-left: -10rem;
+}
+
+.cloud-top {
+  margin-left: 50rem;
+}
+
+.con-top {
+  padding-top: 3rem;
+  background: #FFF2CC;
+  margin: 0 auto 5rem;
+}
+
+.con-middle {
+  width: 45rem;
+  margin: auto;
+}
+
+.con-bottom {
+  background: #FFD966;
+  margin: 5rem auto 0;
+  padding: 3rem 0;
+}
+
+.credit {
+  margin-top: 2rem;
+  color: white;
+  font-weight: normal;
+}
+
+.lol {
+  font-family: 'Merriweather', serif;
+  padding: 0;
+}
+
+.lol:hover {
+  color: black;
+}
+
+.pic {
+  border-radius: 100%;
+  background: #FFD966;
+  width: 15rem;
+}
+
+.pic-moon {
+  float: left;
+  margin: 0 5rem 0 0;
+}
+
+.pic-blender {
+  float: right;
+  margin: 0 0 0 5rem;
+}
+
+.p-last {
+  margin: 3rem auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-top {
+  text-align: left;
+  margin: 5rem auto;
+}
+
+.skill-bottom {
+  text-align: left;
+  margin: 10rem auto 7rem;
+}
